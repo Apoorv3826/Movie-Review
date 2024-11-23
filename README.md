@@ -1,8 +1,9 @@
-![Java](https://img.shields.io/badge/language-Java-blue)
-![JavaScript](https://img.shields.io/badge/technology-JavaScript-339933)
-![React](https://img.shields.io/badge/technology-React-brightgreen)
-![Spring Boot](https://img.shields.io/badge/technology-Spring_Boot-yellow)
-![MongoDB](https://img.shields.io/badge/technology-MongoDB-4EA94B)
+![Java](https://img.shields.io/badge/language-Java-FF6F00)
+![JavaScript](https://img.shields.io/badge/language-JavaScript-F7DF1E)
+![React](https://img.shields.io/badge/framework-React-61DAFB)
+![Spring Boot](https://img.shields.io/badge/framework-Spring_Boot-6DB33F)
+![MongoDB](https://img.shields.io/badge/Database-MongoDB-009688)
+
 
 
 

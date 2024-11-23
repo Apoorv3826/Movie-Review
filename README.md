@@ -1,5 +1,10 @@
 ![Java](https://img.shields.io/badge/language-Java-blue)
+![JavaScript](https://img.shields.io/badge/technology-JavaScript-339933)
 ![React](https://img.shields.io/badge/technology-React-brightgreen)
+![Spring Boot](https://img.shields.io/badge/technology-Spring_Boot-yellow)
+![MongoDB](https://img.shields.io/badge/technology-MongoDB-4EA94B)
+
+
 
 # Movie Review Web App 🎬🍿
 A dynamic full-stack web application that allows users to explore, search, and review movies. This app leverages **React** for the frontend, **Spring Boot** for the backend, and **MongoDB** as the database, offering a seamless user experience to both browse movies and contribute reviews.
